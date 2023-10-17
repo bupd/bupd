@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/150smBV4lihFaw-Utjb2ilr_pDa9lPC_2/view?usp=sharing](https://drive.google.com/file/d/150smBV4lihFaw-Utjb2ilr_pDa9lPC_2/view?usp=sharing)
 
-- ⚡ Fun fact **I use Arch BTW**
+- ⚡ Fun fact **I use Archlinux BTW**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
