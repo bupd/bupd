@@ -7,8 +7,6 @@
 
 
 
-- 🔭 I’m currently working on **Expense Tracker**
-
 - 🌱 I’m currently learning **Golang 👨‍💻**
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://bupd.github.io)
