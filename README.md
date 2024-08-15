@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <br />
-
-
-
+<p align="center">
+ <a href="https://github.com/bupd/"><img src="https://img.shields.io/badge/days_since_last_go_written-0-blue"></a>
+</p>
 
 
 - 🌱 I’m currently learning **Golang 👨‍💻**
