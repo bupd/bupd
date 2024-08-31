@@ -39,6 +39,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+Astro        7 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   41.77 %
+JavaScript   6 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.45 %
+Go           2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bupd&show_icons=true&locale=en&layout=compact" alt="bupd" /></p>
