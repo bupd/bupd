@@ -41,7 +41,7 @@
 
 <h3 align="left">Weekly Development Breakdown:</h3>
 
-<br />
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -54,6 +54,7 @@ CSS          14 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bupd&show_icons=true&locale=en&layout=compact" alt="bupd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bupd&show_icons=true&locale=en" alt="bupd" /></p>
