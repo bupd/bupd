@@ -48,3 +48,7 @@
 <p align="left"> <a href="https://twitter.com/prasanthbupd" target="blank"><img src="https://img.shields.io/twitter/follow/prasanthbupd?logo=twitter&style=for-the-badge" alt="prasanthbupd" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bupd&label=Profile%20views&color=0e75b6&style=flat" alt="bupd" /> </p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
