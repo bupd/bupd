@@ -49,6 +49,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bupd&label=Profile%20views&color=0e75b6&style=flat" alt="bupd" /> </p>
 
+## Wakatime Stats
 <!--START_SECTION:waka-->
 
 ```txt
