@@ -49,6 +49,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bupd&label=Profile%20views&color=0e75b6&style=flat" alt="bupd" /> </p>
 
+ **GPG Key**: `gpg --auto-key-locate keyserver --locate-external-key bupdprasanth@gmail.com`
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 
