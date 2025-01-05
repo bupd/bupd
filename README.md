@@ -50,6 +50,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bupd&label=Profile%20views&color=0e75b6&style=flat" alt="bupd" /> </p>
 
  **GPG Key**: `gpg --auto-key-locate keyserver --locate-external-key bupdprasanth@gmail.com`
+
+ <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.devexcus.es&query=%24.text&prefix=What...&style=flat-square&logo=internetcomputer&logoSize=&label=excuse" height="28" width="full" />
+
+ 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
 
