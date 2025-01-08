@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasanth Bupd</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Yet another Software Engineer who writes if err != nil</h3>
 
 <br />
 <p align="center">
