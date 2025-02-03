@@ -53,7 +53,7 @@
 
  <br>
 
- <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.devexcus.es&query=%24.text&prefix=ackshually...&style=flat-square&logo=internetcomputer&logoSize=&label=excuse" height="28" width="full" />
+ <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.devexcus.es&query=%24.text&style=flat-square&logo=internetcomputer&logoSize=&label=excuse" height="28" width="full" />
 
  
 ## Wakatime Stats
