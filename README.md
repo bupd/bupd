@@ -17,6 +17,7 @@
 - 💬 Ask me about **React, Go, API**
 
 - 📫 Reach me **bupdprasanth@gmail.com**
+
 - ⚡ Fun fact **I use Arch BTW**
 
 <h3 align="left">Connect with me:</h3>
@@ -49,7 +50,7 @@
 
  <br>
 
- <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.devexcus.es&query=%24.text&style=flat-square&logo=internetcomputer&logoSize=&label=excuse" height="28" width="full" />
+ <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.devexcus.es&query=%24.text&style=flat-square&logo=internetcomputer&logoSize=&label=" height="28" width="full" />
 
  
 ## Wakatime Stats
