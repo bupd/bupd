@@ -7,18 +7,16 @@
 </p>
 
 
-- 🌱 I’m currently writing **Golang 👨‍💻**
+- 🌱 I’m currently writing **Golang <img src="https://github.com/user-attachments/assets/13c8cefd-bdca-4c7e-bd7b-554faf4d9d60" height="80">**
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://bupd.github.io)
 
-- 📝 I regularly write articles on [Dev.to/bupd](https://dev.to/bupd)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bupd.xyz)
+
+- 📝 I rarely write articles on [Dev.to/bupd](https://dev.to/bupd)
 
 - 💬 Ask me about **React, Go, API**
 
 - 📫 Reach me **bupdprasanth@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/150smBV4lihFaw-Utjb2ilr_pDa9lPC_2/view?usp=sharing)
-
 - ⚡ Fun fact **I use Arch BTW**
 
 <h3 align="left">Connect with me:</h3>
