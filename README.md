@@ -40,9 +40,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bupd&" alt="bupd" /></p>
 
+![DevStats Card](https://devstats.me/?username=bupd)
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bupd" alt="bupd" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/prasanthbupd" target="blank"><img src="https://img.shields.io/twitter/follow/prasanthbupd?logo=twitter&style=for-the-badge" alt="prasanthbupd" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bupd&label=Profile%20views&color=0e75b6&style=flat" alt="bupd" /> </p>
 
@@ -50,7 +52,7 @@
 
  <br>
 
- <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.devexcus.es&query=%24.text&style=flat-square&logo=internetcomputer&logoSize=&label=" height="28" width="full" />
+ <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.devexcus.es&query=%24.text&style=flat-square&logo=internetcomputer&logoSize=&label=today's%20excuse" height="28" width="full" />
 
  
 ## Wakatime Stats
