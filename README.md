@@ -34,13 +34,14 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bupd&show_icons=true&locale=en&layout=compact" alt="bupd" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bupd&show_icons=true&locale=en&layout=compact" alt="bupd" />
+
+![DevStats Card](https://devstats.me/?username=bupd)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bupd&show_icons=true&locale=en" alt="bupd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bupd&" alt="bupd" /></p>
 
-![DevStats Card](https://devstats.me/?username=bupd)
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bupd" alt="bupd" /></a> </p> -->
 
